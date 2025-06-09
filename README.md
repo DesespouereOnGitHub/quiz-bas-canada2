@@ -1,4 +1,3 @@
-# Quiz Bas Canada
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
