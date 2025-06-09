@@ -1,5 +1,4 @@
-# quiz-bas-canada2
-<!DOCTYPE html>
+# Quiz Bas Canada
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
